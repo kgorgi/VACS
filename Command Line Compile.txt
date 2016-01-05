@@ -1,0 +1,5 @@
+To Create Classes:
+javac src/*.java -d .
+
+To Create Jar Bundle:
+jar cfe VACS.jar VACS *
