@@ -1,6 +1,6 @@
 # VACS: The Vector Addition Computation System
 ## Synopsis:
-VACS or Vector Addition Computation System is a Java program built using Notepad++. It is a GUI port of the C++ program Vector Addition Solver. This program adds multiple two dimensional vectors together with the user specifying how many vectors to add because the amount of vectors is unknown at compilation. Please note the for the angle of a vector, the polar coordinate system is used.
+VACS or Vector Addition Computation System is a Java program built using Notepad++. It is a GUI port of the C++ program [Vector Addition Solver](https://github.com/kgorgi/Vector-Addition-Solver). This program adds multiple two dimensional vectors together with the user specifying how many vectors to add because the amount of vectors is unknown at compilation. Please note  for the angle of a vector, the polar coordinate system is used.
 
 To find out more information about vector addition please visit: 
 
